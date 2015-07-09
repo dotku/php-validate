@@ -1,4 +1,4 @@
-# phpvalidate
+# php-validate
 get the class from shopnc
 
 ## 例子
